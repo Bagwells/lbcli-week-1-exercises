@@ -1,3 +1,3 @@
 # Check the total amount in the wallet.
 
-bitcoin-cli -regtest -rpcwallet=builderswallet getbalance | bc -l 8
+bitcoin-cli -regtest -rpcwallet=builderswallet getbalance | bc 
